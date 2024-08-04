@@ -4,7 +4,8 @@ I opened this source later than other sources such as: untrunc, mp4fixer, djifix
 This open source so I can improve video repair. And learn from the sources
 
 ## Contact - Author
-If you need to restore the video, please upload it to drive, mega ..etc and send the link to my gmail. <br>
+You can buy full source code (GUI & main.py). All code is built-in without missing data. If you are not sure, <br>
+please send me a broken video file, please upload it to drive, mega ..etc and send the link to my gmail. <br>
 And if successful, this is not free. Developed by Vu Quang Dai <BSVRecovery.vn@gmail.com>
 
 ## Usage
