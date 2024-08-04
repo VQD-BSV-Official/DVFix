@@ -13,7 +13,8 @@ To recover, you need:
 1. Folder containing damaged files
 2. Prepare a place to save the file (empty)
 3. Recommended to run on Windows, instead of Linux.
-4. Good sample file. The file must be the same device or software. The same parameters (Resolution, FPS, audio format).
+4. Good sample file. The file must be the same device or software. <br>
+The same parameters (Resolution, FPS, audio format).
 
 To use:
 1. Select the folder containing the video file
