@@ -19,7 +19,7 @@ To use:
 3.
 
 
-## 💰You can help me by Donating
+## 💰You can help me by Donating - Ủng Hộ tại BIDV 63110001165789
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BSVPay)
 
 
