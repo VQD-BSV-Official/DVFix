@@ -28,7 +28,76 @@ def writeBytes(byte, File_out):
 	with open(File_out, "ab") as w:
 		w.write(bytes([byte]))
 
+#////////////////////NAL_Unit\\\\\\\\\\\\\\\\\\\\
+'''def Byte_3337. Read the next 12 bytes and check if there is a 00. 
+If there is, replace the next 3 bytes with 00 00 01.'''
+def Byte_3337(data):
+	count = 0
+	while True:
+		# Find byte 08 24
+		hex_str = bytes.fromhex('0824680000030001')
+		offset = data.find(hex_str, count)
 
+		# Break if haven't
+		if offset == -1:
+			break
+
+		#============main==============
+		start = offset + len(hex_str)
+		end = start + 12
+		# Read 12 byte
+		next12Bytes = data[start:end]
+
+		# Find 00 and replace 00 00 01 
+		for index, byte in enumerate(next12Bytes):
+			if byte == 0:
+				print(f"Found byte {byte} at offset {hex(start + index)}")
+
+				replace = start + index + 1
+				if replace >= offset + len(hex_str):
+					data[replace:replace + 3] = bytes.fromhex('000001')
+				break
+
+		count = offset + len(hex_str) + 12
+
+	with open("DJI_FIX.h264", "ab") as w:
+		w.write(data)
+	# return data
+
+'''def Byte_010209. Read the next 50 bytes and check if there is 0824680000030001.
+If there is, replace 00 02 09 with 00 01 09 and skip the next 2 bytes
+and replace those 3 bytes with 00 00 01. '''
+def Byte_010209(data_in):
+	# Read file
+	data = bytearray(data_in)
+	count = 0
+	while True:
+		# Find byte 00 02 09
+		hex_str = bytes.fromhex('000209')
+		hex_check = bytes.fromhex('0824680000030001')
+		offset = data.find(hex_str, count)
+		
+		# Break if haven't
+		if offset == -1:
+			break
+
+		#============main==============
+		start = offset + len(hex_str)
+		end = start + 50
+		# Read 50 byte
+		next50Bytes = data[start:end]
+
+		if hex_check in next50Bytes:
+			print(f"Found byte at offset {hex(offset)}")
+
+			data[offset:offset + 3] = bytes.fromhex('000109')
+			data[offset + 5:offset + 8] = bytes.fromhex('000001')
+		count = offset + len(hex_str) + 50
+	
+	Byte_3337(data)
+#//////////////////////Done\\\\\\\\\\\\\\\\\\\\\\
+
+#//////////////////////MAIN\\\\\\\\\\\\\\\\\\\\\\
 def main(File_in, File_out):
 	data_in = open(File_in, "rb")
 
@@ -78,6 +147,4 @@ def main(File_in, File_out):
 	# 	w.write(done_data)
 
 
-from done import Byte_010209
-
-main("DJI_BAD.MP4", "DJI_FIX.h264")
+# main("DJI_BAD.MP4", "DJI_FIX.h264")
