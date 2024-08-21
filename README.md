@@ -14,7 +14,8 @@ EXAMPLE RUN:
 File_.py "Video_broken.mp4"
 ```
 
-> [!Note] 
+> [!Note]
+> * Using Python 3.12.4 or > Python 3.9
 > * Recommended to run on Windows, instead of Linux.
 > * Good sample file. The file must be the same device or software. <br>
 > The same parameters (Resolution, FPS, audio format).
