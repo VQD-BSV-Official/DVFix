@@ -1,4 +1,4 @@
-## ***Developed by Vu Quang Dai <BSVRecovery.vn@gmail.com>***
+## ***Developed by Vũ Quang Đại <BSVRecovery.vn@gmail.com>***
 Recover damaged files, lost source when recording, incomplete by extracting h264. Currently supports: MP4, MOV... <br>
 I opened this source later than other sources such as: untrunc, mp4fixer, djifix or recover_mp4. <br>
 This open source so I can improve video repair. And learn from the sources
