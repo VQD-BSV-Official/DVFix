@@ -1,12 +1,13 @@
-## Software
+### ***Developed by Vu Quang Dai <BSVRecovery.vn@gmail.com>***
+#
 Recover damaged files, lost source when recording, incomplete by extracting h264. Currently supports: MP4, MOV... <br>
 I opened this source later than other sources such as: untrunc, mp4fixer, djifix or recover_mp4. <br>
 This open source so I can improve video repair. And learn from the sources
 
-## Contact - Author
 You can buy full source code (GUI & main.py). All code is built-in without missing data. If you can not fix, <br>
 please send me a broken file and good sample file (if any), please upload to drive, mega ..etc. <br>
-and send the link to my gmail. And if successful, this is not free. Developed by Vu Quang Dai <BSVRecovery.vn@gmail.com>
+and send the link to my gmail. And if successful, this is not free.
+
 
 ## Usage
 To recover, you need:
