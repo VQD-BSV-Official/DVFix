@@ -16,10 +16,6 @@ To recover, you need:
 4. Good sample file. The file must be the same device or software. <br>
 The same parameters (Resolution, FPS, audio format).
 
-To use:
-1. Select the folder containing the video file
-2. Click Home => Advanced Repair. If your video is DJI lost power while recording, press DJI Repair
-3.
 
-## 💰You can help me by Donating - BIDV 63110001165789
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BSVPay)
+> [!Important]
+> **Donate**: [Do consider donating or buying us a coffee](https://paypal.me/BSVPay)
