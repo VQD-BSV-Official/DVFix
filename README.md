@@ -9,7 +9,7 @@ and send the link to my gmail. And if successful, this is not free.
 
 
 ## Usage
-EXAMPLE RUN:
+**EXAMPLE RUN:**
 ```
 File_.py "Video_broken.mp4"
 ```
