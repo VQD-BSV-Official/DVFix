@@ -12,9 +12,8 @@ Recover damaged files, lost source when recording, incomplete by extracting h264
 I opened this source later than other sources such as: untrunc, mp4fixer, djifix or recover_mp4. <br>
 This open source so I can improve video repair. And learn from the sources
 
-You can buy full source code (GUI & main.py). All code is built-in without missing data. If you can not fix, <br>
-please send me a broken file and good sample file (if any), please upload to drive, mega ..etc. <br>
-and send the link to my gmail. And if successful, this is not free.
+``` You can contact me via gmail (email) to save the files you need. This will cost you a fee, thank you. If you have any problems or questions here => https://github.com/VQD-BSV-Official/BSV-VideoRepair/issues, I will reply as soon as possible.```
+
 
 
 ## Usage
