@@ -7,9 +7,9 @@
 > * "Modifying" or "customizing": Changing or customizing the source code.
 > * "Repurposing": Reusing the source code for another purpose.
 
-
 Recover damaged files, lost source when recording, incomplete by extracting h264. Currently supports: MP4, MOV... <br>
-I opened this source later than other sources such as: untrunc, mp4fixer, djifix or recover_mp4. <br>
+I know my tool has many shortcomings, but I want to create a multi-tool and partly because I want to do everything instead of the available software. I would be very happy if you contribute, because I am alone researching with my laptop. Thank you very much
+I also don't make the source code public because the research effort only looks at hex data and draws experience. You can refer to other source codes: untrunc, mp4fixer, djifix or recover_mp4. <br>
 This open source so I can improve video repair. And learn from the sources
 
 ```You can contact me via gmail (email) to save the files you need. This will cost you a fee, thank you. If you have any problems or questions here => https://github.com/VQD-BSV-Official/BSV-VideoRepair/issues, I will reply as soon as possible.```
