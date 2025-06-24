@@ -8,7 +8,7 @@
 > * "Repurposing": Reusing the source code for another purpose.
 
 Recover damaged files, lost source when recording, incomplete by extracting h264. Currently supports: MP4, MOV... <br>
-I know my tool has many shortcomings, but I want to create a multi-tool and partly because I want to do everything instead of the available software. I would be very happy if you contribute, because I am alone researching with my laptop. Thank you very much
+I know my tool has many shortcomings, but I want to create a multi-tool and partly because I want to do everything instead of the available software. I would be very happy if you contribute, because I am alone researching with my laptop. Thank you very much <br>
 I also don't make the source code public because the research effort only looks at hex data and draws experience. You can refer to other source codes: untrunc, mp4fixer, djifix or recover_mp4. <br>
 This open source so I can improve video repair. And learn from the sources
 
