@@ -1,16 +1,10 @@
 ## ***Developed by Vũ Quang Đại / <BSVRecovery.vn@gmail.com>***
 > [!Warning]
 > Please respect copyright, I created this software without any cost or support. ***DO NOT STEAL THE CODE AND MAKE IT YOURS, WHILE EVERYTHING IS BUILT BY ME***. For example: edit ***Author & Developed by: Vu Quang Dai*** to your name, I know open source you can edit everything, but I want respect for the effort I put in.
->
-> **CAN BE ADDED**
-> * "Building upon existing code": Building upon existing source code.
-> * "Modifying" or "customizing": Changing or customizing the source code.
-> * "Repurposing": Reusing the source code for another purpose.
 
-Recover damaged files, lost source when recording, incomplete by extracting h264. Currently supports: MP4, MOV... <br>
-I know my tool has many shortcomings, but I want to create a multi-tool and partly because I want to do everything instead of the available software. I would be very happy if you contribute, because I am alone researching with my laptop. Thank you very much <br>
-I also don't make the source code public because the research effort only looks at hex data and draws experience. You can refer to other source codes: untrunc, mp4fixer, djifix or recover_mp4. <br>
-This open source so I can improve video repair. And learn from the sources
+*A tool to recover corrupted videos (MP4, MOV...) extracted from h264. I am developing independently, looking forward to receiving contributions from the community.
+More references: [untrunc](https://github.com/anthwlock/untrunc), [recovery_mp4](https://slydiman.me/eng/mmedia/recover_mp4.htm)...etc
+The goal is to learn & improve file repair techniques. Thanks!*
 
 ```You can contact me via gmail (email) to save the files you need. This will cost you a fee, thank you. If you have any problems or questions here => https://github.com/VQD-BSV-Official/BSV-VideoRepair/issues, I will reply as soon as possible.```
 
