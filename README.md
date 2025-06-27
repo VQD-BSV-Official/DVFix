@@ -11,10 +11,24 @@ The goal is to learn & improve file repair techniques. Thanks!*
 
 
 ## Usage
-**EXAMPLE RUN:**
+Usage1: <========> Deep File Analyze <========>
 ```
-File_.py "Video_broken.mp4"
+Step 1: DVFix.exe "good_file.mp4" --analyze
 ```
+```
+Step 2: DVFix.exe "bad_file.mp4" result.h264 --repair [option]
+```
+```
+[option]: Samples Available <br>
+        --canon    ❯  EOS SX, 80D, 90D <br>
+        --default  ❯  Use hex directly from the template file
+```
+
+Usage1: <========> Ransomware File Analyze <========>
+```
+S1: DVFix.exe [bad_file_path]  --ransom
+```
+
 
 > [!Note]
 > * Using Python 3.12.4 or > Python 3.9
