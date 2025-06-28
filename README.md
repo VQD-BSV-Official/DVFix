@@ -19,8 +19,8 @@ Step 1: DVFix.exe "good_file.mp4" --analyze
 Step 2: DVFix.exe "bad_file.mp4" result.h264 --repair [option]
 ```
 ```
-[option]: Samples Available <br>
-        --canon    ❯  EOS SX, 80D, 90D <br>
+[option]: Samples Available
+        --canon    ❯  EOS SX, 80D, 90D
         --default  ❯  Use hex directly from the template file
 ```
 
