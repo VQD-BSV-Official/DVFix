@@ -24,7 +24,7 @@ Step 2: DVFix.exe "bad_file.mp4" result.h264 --repair [option]
         --default  ❯  Use hex directly from the template file
 ```
 
-Usage1: <========> Ransomware File Analyze <========>
+Usage2: <========> Ransomware File Analyze <========>
 ```
 S1: DVFix.exe [bad_file_path]  --ransom
 ```
