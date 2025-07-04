@@ -11,10 +11,7 @@ The goal is to learn & improve file repair techniques. Thanks!*
 
 
 ## Usage
-```
-git clone https://github.com/VQD-BSV-Official/DVFix.git
-```
-or here for Windows [click here](https://github.com/VQD-BSV-Official/DVFix/releases)
+Download here for Windows [click here](https://github.com/VQD-BSV-Official/DVFix/releases)
 
 
 Usage1: <========> Deep File Analyze <========>
