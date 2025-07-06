@@ -11,7 +11,8 @@ The goal is to learn & improve file repair techniques. Thanks!*
 
 
 ## Usage
-Download here for Windows [click here](https://github.com/VQD-BSV-Official/DVFix/releases)
+VideoRepair - Early version: [click here](https://github.com/VQD-BSV/VideoRepairTool) <br>
+DVFix - Download here for Windows [click here](https://github.com/VQD-BSV-Official/DVFix/releases)
 
 
 Usage1: <========> Deep File Analyze <========>
