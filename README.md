@@ -11,6 +11,8 @@ The goal is to learn & improve file repair techniques. Thanks!*
 
 
 ## Usage
+Supported video formats: AVC/H.264 (avc1)
+
 VideoRepair - Early version: [click here](https://github.com/VQD-BSV/VideoRepairTool) <br>
 DVFix - Download here for Windows [click here](https://github.com/VQD-BSV-Official/DVFix/releases)
 
