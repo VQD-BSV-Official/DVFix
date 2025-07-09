@@ -26,7 +26,7 @@ Step 2: DVFix.exe "bad_file.mp4" result.h264 --repair [option]
 ```
 ```
 [option]: Samples Available
-        --canon    ❯  SX, 80D, 90D, R100 , RP
+        --canon    ❯  SX, 80D, 90D, R100, RP
         --sony     ❯  A7SM2, AX1E, NX5R, A6000, HDR-CX405, HDR-CX625
         --default  ❯  Use hex directly from the template file
 ```
