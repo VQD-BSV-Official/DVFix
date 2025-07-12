@@ -34,7 +34,7 @@ Step 2: DVFix.exe "bad_file.mp4" result.h264 --repair [option]
 
 Usage2: <========> Ransomware File Analyze <========>
 ```
-S1: DVFix.exe [bad_file_path]  --ransom
+Step 1: DVFix.exe [bad_file_path]  --ransom
 ```
 
 
