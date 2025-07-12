@@ -11,7 +11,7 @@ The goal is to learn & improve file repair techniques. Thanks!*
 
 
 ## Usage
-Supported video formats: AVC/H.264 (avc1)
+Supported video formats: AVC/H.264 (avc1) <br>
 Supported auudio formats: AAC
 
 VideoRepair - Early version: [click here](https://github.com/VQD-BSV/VideoRepairTool) <br>
