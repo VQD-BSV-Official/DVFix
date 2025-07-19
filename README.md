@@ -39,7 +39,7 @@ Step 1: DVFix.exe [bad_file_path]  --ransom
 
 
 > [!Note]
-> * Using Python 3.12.4 or > Python 3.9
+> * Using Python 3.13.5
 > * Recommended to run on Windows, instead of Linux.
 > * Good sample file. The file must be the same device or software. <br>
 > The same parameters (Resolution, FPS, audio format).
