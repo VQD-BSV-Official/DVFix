@@ -23,18 +23,20 @@ Usage1: <========> Deep File Analyze <========>
 Step 1: DVFix.exe "good_file.mp4" --analyze
 ```
 ```
-Step 2: DVFix.exe "bad_file.mp4" result.h264 --repair [option]
+Step 2: DVFix.exe "bad_file.mp4" [file_output] --repair [option]
 ```
 ```
+[file_output]: file_name.h264 or file_name.hevc
 [option]: Samples Available
+        --android  ❯  Android 6.0... (Beta)
         --canon    ❯  SX, 80D, 90D, R100, RP
         --sony     ❯  A7SM2, AX1E, NX5R, A6000, HDR-CX405, HDR-CX625
-        --default  ❯  Use hex directly from the template file
+        --default  ❯  Use hex directly from the template file (Recommend)
 ```
 
 Usage2: <========> Ransomware File Analyze <========>
 ```
-Step 1: DVFix.exe [bad_file_path]  --ransom
+1 Step: DVFix.exe [bad_file_path] --ransom
 ```
 
 
