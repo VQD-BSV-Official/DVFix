@@ -29,8 +29,9 @@ Step 2: DVFix.exe "bad_file.mp4" [file_output] --repair [option]
 [file_output]: file_name.h264 or file_name.hevc
 [option]: Samples Available
         --android  ❯  Android 6.0... (Beta)
-        --canon    ❯  SX, 80D, 90D, R100, RP
-        --sony     ❯  A7SM2, AX1E, NX5R, A6000, HDR-CX405, HDR-CX625
+        --qt       ❯  MOV    ~ 00 00 00 01
+        --canon    ❯  XF-AVC ~ 00 00 00 01
+        --sony     ❯  XAVC   ~ 09 (10, 30, 50) 00 00
         --default  ❯  Use hex directly from the template file (Recommend)
 ```
 
