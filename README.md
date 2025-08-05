@@ -28,11 +28,12 @@ Step 2: DVFix.exe "bad_file.mp4" [file_output] --repair [option]
 ```
 [file_output]: file_name.h264 or file_name.hevc
 [option]: Samples Available
-        --android  ❯  Android 6.0... (Beta)
-        --qt       ❯  MOV    ~ 00 00 00 01
-        --canon    ❯  XF-AVC ~ 00 00 00 01
-        --sony     ❯  XAVC   ~ 09 (10, 30, 50) 00 00
-        --default  ❯  Use hex directly from the template file (Recommend)
+        --android  ❯  AVC     ~ 00 00 00 01
+        --qt       ❯  MOV/AVC ~ 00 00 00 01
+        --canon    ❯  XF-AVC  ~ 00 00 00 01
+        --sony     ❯  XAVC    ~ 09 (10, 30, 50) 00 00
+        --default  ❯  Use hex directly from the template file ~ 00 00 00 01 (Recommend)
+
 ```
 
 Usage2: <========> Ransomware File Analyze <========>
