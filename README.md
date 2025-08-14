@@ -23,10 +23,9 @@ Usage1: <========> Deep File Analyze <========>
 Step 1: DVFix.exe "good_file.mp4" --analyze
 ```
 ```
-Step 2: DVFix.exe "bad_file.mp4" [file_output] --repair [option]
+Step 2: DVFix.exe "bad_file.mp4" result.h264 --repair [option]
 ```
 ```
-[file_output]: file_name.h264 or file_name.hevc
 [option]: Samples Available
         --android  ❯  AVC     ~ 00 00 00 01
         --qt       ❯  MOV/AVC ~ 00 00 00 01
