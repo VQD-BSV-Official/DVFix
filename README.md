@@ -21,8 +21,6 @@ DVFix - Download here for Windows [click here](https://github.com/VQD-BSV-Offici
 Usage1: <========> Deep File Analyze <========>
 ```
 Step 1: DVFix.exe "good_file.mp4" --analyze
-```
-```
 Step 2: DVFix.exe "bad_file.mp4" result.h264 --repair [option]
 ```
 ```
