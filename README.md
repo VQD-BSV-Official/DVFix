@@ -26,7 +26,7 @@ Step 2: DVFix.exe "bad_file" result.h264 --repair [option]
 ```
 [option]: Samples Available
         --android  ❯  AVC     ~ 00 00 00 01
-        --qt       ❯  MOV/AVC ~ 00 00 00 01
+        --qt       ❯  AVC     ~ 00 00 00 01
         --canon    ❯  XF-AVC  ~ 00 00 00 01
         --sony     ❯  XAVC    ~ 09 (10, 30, 50) 00 00
         --default  ❯  Use hex directly from the template file ~ 00 00 00 01 (Recommend)
