@@ -47,5 +47,5 @@ Usage 2: <========> Ransomware File Analyze <========>
 
 
 > [!Important]
-> **Donate**: [Do consider donating or buying us a coffee](https://paypal.me/BSVPay)
-> ***Metamask**: 
+> <img src="https://github.com/user-attachments/assets/e44b917f-01d5-4df4-af07-17703e9b553f" alt="BIDV" width="200" style="max-width: 100%; margin: 0 auto;"> <br>
+> **Donate (Paypal)**: [Do consider donating or buying us a coffee](https://paypal.me/BSVPay)
